@@ -1,1 +1,2 @@
-public class QingJia {}
+public class QingJia{
+	}
